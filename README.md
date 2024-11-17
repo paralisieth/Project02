@@ -85,7 +85,7 @@ curl -X POST http://localhost:8000/api/labs -H "Authorization: Bearer YOUR_TOKEN
 
 ## 📚 Documentation
 
-- [API Documentation](http://localhost:8000/docs)
+- [API Documentation](./docs/api.md)
 - [Architecture Overview](./docs/architecture.md)
 - [Development Guide](./docs/development.md)
 - [Deployment Guide](./docs/deployment.md)

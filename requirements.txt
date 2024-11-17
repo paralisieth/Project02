@@ -1,0 +1,23 @@
+fastapi==0.95.2
+uvicorn==0.20.0
+sqlalchemy==1.4.41
+psycopg2-binary==2.9.9
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+pydantic==1.10.13
+python-dotenv==0.21.1
+alembic==1.11.1
+pytest==7.3.1
+httpx==0.24.1
+
+# Lab management
+docker==6.1.2
+psutil==5.9.5
+aiofiles==23.1.0
+asyncio==3.4.3
+openvpn-api==0.3.0
+
+# Monitoring
+prometheus-client==0.17.1
+grafana-api==1.0.3
